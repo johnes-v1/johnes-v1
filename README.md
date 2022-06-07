@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi ther 👋
 ### Welcome to my profile, my name is João
 
 
