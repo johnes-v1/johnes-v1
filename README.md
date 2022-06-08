@@ -1,5 +1,5 @@
-### Hi there 👋
-### Welcome to my profile, my name is João
+# Hi there 👋
+## Welcome to my profile, my name is João
 
 
 
